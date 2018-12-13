@@ -1,4 +1,5 @@
 .idea/
+out/
 *.zip
 *.iml
 xanadu.txt
